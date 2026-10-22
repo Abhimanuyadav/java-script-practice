@@ -1,3 +1,5 @@
+ // B IF STATEMENT
+
 // // 1. 
 // let num = 10;
 // if (num % 5 === 0) {
@@ -76,80 +78,6 @@
 //     console.log("Even");
 // } else {
 //     console.log("Odd");
-// }
-
-
-// // 2. 
-// age = 20;
-// if (age >= 18) {
-//     console.log("Eligible");
-// } else {
-//     console.log("Not Eligible");
-// }
-
-
-// // 3. 
-// num = -5;
-// if (num >= 0) {
-//     console.log("Positive");
-// } else {
-//     console.log("Negative");
-// }
-
-
-// // 4. 
-// marks = 50;
-// if (marks >= 35) {
-//     console.log("Pass");
-// } else {
-//     console.log("Fail");
-// }
-
-
-// // 5. 
-// let char = "A";
-// if (char >= "A" && char <= "Z") {
-//     console.log("Uppercase Letter");
-// } else {
-//     console.log("Not Uppercase");
-// }
-
-
-// // 6. 
-// num = 15;
-// if (num % 3 === 0) {
-//     console.log("Divisible by 3");
-// } else {
-//     console.log("Not Divisible by 3");
-// }
-
-
-// // 7. 
-// let password = "admin123";
-// if (password === "admin123") {
-//     console.log("Login Successful");
-// } else {
-//     console.log("Incorrect Password");
-// }
-
-
-// // 8. 
-// year = 2024;
-// if (year % 4 === 0) {
-//     console.log("Leap Year");
-// } else {
-//     console.log("Not a Leap Year");
-// }
-
-
-// // 9.
-// let a = 20;
-// let b = 15;
-
-// if (a > b) {
-//     console.log(a);
-// }else {
-//     console.log(b);
 // }
 
 
